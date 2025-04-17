@@ -17,8 +17,11 @@ export default function Home() {
             priority
           />
           <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-            <li className="mb-2 tracking-[-.01em]">
-              Get started by editing{" "}
+            <li className="mb-2 tracking-[-.01em] font-myfont">
+              あのイーハトーヴォの すきとおった風、
+              夏でも底に冷たさをもつ青いそら、
+              うつくしい森で飾られたモリーオ市、 郊外のぎらぎらひかる草の波。
+              祇辻飴葛蛸鯖鰯噌庖箸 ABCDEFGHIJKLM abcdefghijklm 1234567890{" "}
               <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
                 app/page.tsx
               </code>
